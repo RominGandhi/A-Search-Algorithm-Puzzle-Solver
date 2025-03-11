@@ -68,7 +68,7 @@ Welcome to the **A*** Puzzle Solver*\*, an intelligent and efficient way to solv
 👨‍💻 **Dhairya Patel** | 👨‍💻 **Paarth Bagga** | 👨‍💻 **Devarth Trivedi** | 👨‍💻 **Gleb Silin**  
 👨‍💻 **Emmet Currie** | 👨‍💻 **Parker Riches**  
 
-```
+
 ⚠️ Do Not Copy
 
 
