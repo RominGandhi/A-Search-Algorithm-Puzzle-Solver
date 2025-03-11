@@ -63,10 +63,12 @@ Welcome to the **A*** Puzzle Solver*\*, an intelligent and efficient way to solv
 │── 📂 results/                # Performance Analysis Logs
 ```
 
-## 👥 Team
+## 👥 Team Members
+👨‍💻 **Romin Gandhi** | 👨‍💻 **Jenish Bharucha** | 👨‍💻 **Nakul Patel** | 👨‍💻 **Arsh Patel**  
+👨‍💻 **Dhairya Patel** | 👨‍💻 **Paarth Bagga** | 👨‍💻 **Devarth Trivedi** | 👨‍💻 **Gleb Silin**  
+👨‍💻 **Emmet Currie** | 👨‍💻 **Parker Riches**  
 
-👨‍💻 Romin Gandhi | 👨‍💻 Jenish Bharucha | 👨‍💻 Nakul Patel | 👨‍💻 Arsh Patel
-👨‍💻 Dhairya Patel | 👨‍💻 Paarth Bagga | 👨‍💻 Devarth Trivedi | 👨‍💻 Gleb Silin
-👨‍💻 Emmet Currie | 👨‍💻 Parker Riches
+```
+⚠️ Do Not Copy
 
 
