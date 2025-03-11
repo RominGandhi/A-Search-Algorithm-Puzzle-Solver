@@ -13,7 +13,7 @@ Welcome to the **A*** Puzzle Solver*\*, an intelligent and efficient way to solv
 - 🔹 *Manhattan Distance:* Measures the total movement required.
 - 🔹 *Linear Conflict:* Enhances Manhattan Distance with additional penalties for conflicting tiles.
 
-✅ **Generates 100+ Unique Solvable Puzzles Automatically**
+✅ **Generates 100+ Unique Solvable Puzzles Automatically** \
 ✅ **Performance Analysis for Each Heuristic** 📊
 ✅ **Python-based with clean, modular code**
 
