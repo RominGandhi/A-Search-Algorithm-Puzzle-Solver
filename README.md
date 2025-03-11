@@ -12,9 +12,10 @@ Welcome to the **A*** Puzzle Solver*\*, an intelligent and efficient way to solv
 - 🔹 *Misplaced Tiles:* Counts misplaced tiles.
 - 🔹 *Manhattan Distance:* Measures the total movement required.
 - 🔹 *Linear Conflict:* Enhances Manhattan Distance with additional penalties for conflicting tiles.
-  ✅ **Generates 100+ Unique Solvable Puzzles Automatically**
-  ✅ **Performance Analysis for Each Heuristic** 📊
-  ✅ **Python-based with clean, modular code**
+
+✅ **Generates 100+ Unique Solvable Puzzles Automatically**
+✅ **Performance Analysis for Each Heuristic** 📊
+✅ **Python-based with clean, modular code**
 
 ## ⚡ Quick Start
 
