@@ -60,7 +60,7 @@ Welcome to the **A*** Puzzle Solver*\*, an intelligent and efficient way to solv
 │── 📜 a1q1.py                  # A* Search Algorithm for 8 Puzzle
 │── 📜 a1q2.py                  # A* Search Algorithm for 15 Puzzle
 │── 📜 a1q3.py                  # A* Search Algorithm for 24 Puzzle
-│── 📜 README.md                # Project Documentation
+│── 📜 README.md                # Overview
 │── 📜 CP468-A1-Group 8.pdf     # Comments on performance of puzzles
 │── 📜 CP468-A1-8.pdf           # Project Documentation 
 ```
