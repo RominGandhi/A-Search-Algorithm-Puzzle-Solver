@@ -56,12 +56,18 @@ Welcome to the **A*** Puzzle Solver*\*, an intelligent and efficient way to solv
 
 ```
 📂 AStar-Puzzle-Solver/
-│── 📜 puzzle_solver.py        # A* Search Algorithm for the Puzzles
-│── 📜 README.md               # Project Documentation
-│── 📜 requirements.txt        # Dependencies
-│── 📂 data/                   # Sample Puzzle Configurations
-│── 📂 results/                # Performance Analysis Logs
+│── 📜 a1q1.py                  # A* Search Algorithm for 8 Puzzle
+│── 📜 a1q2.py                  # A* Search Algorithm for 15 Puzzle
+│── 📜 a1q3.py                  # A* Search Algorithm for 24 Puzzle
+│── 📜 README.md                # Project Documentation
+│── 📜 CP468-A1-Group 8.pdf     # Comments on performance of puzzles
+│── 📜 CP468-A1-8.pdf           # Project Documentation 
 ```
+
+
+## 📜 License
+Developed as part of **CP 468 - Artificial Intelligence** at **Wilfrid Laurier University**.
+
 
 ## 👥 Team Members
 👨‍💻 **Romin Gandhi** | 👨‍💻 **Jenish Bharucha** | 👨‍💻 **Nakul Patel** | 👨‍💻 **Arsh Patel**  
