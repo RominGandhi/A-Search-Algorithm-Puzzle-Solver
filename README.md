@@ -67,7 +67,8 @@ Welcome to the **A*** Puzzle Solver*\*, an intelligent and efficient way to solv
 
 
 ## 📜 License
-Developed as part of **CP 468 - Artificial Intelligence** at **Wilfrid Laurier University**.
+Developed as part of **CP 468 - Artificial Intelligence** at **Wilfrid Laurier University**. 
+⚠️ Do Not Copy
 
 
 ## 👥 Team Members
@@ -76,6 +77,5 @@ Developed as part of **CP 468 - Artificial Intelligence** at **Wilfrid Laurier U
 👨‍💻 **Emmet Currie** | 👨‍💻 **Parker Riches**  
 
 
-⚠️ Do Not Copy
 
 
